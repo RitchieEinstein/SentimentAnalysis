@@ -1,4 +1,4 @@
-package com.michelle.sentimentAnalysis;
+package com.ritchieeinstein.sentimentAnalysis;
 
 import java.io.BufferedReader;
 import java.io.File;
